@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineer · AI/ML Developer · Full-Stack Developer</b><br/>
-  3rd-year BS Software Engineering student @ PUCIT, University of the Punjab, Lahore 🇵🇰
+  4th-year BS Software Engineering student @ PUCIT, University of the Punjab, Lahore 🇵🇰
 </p>
 
 <p align="center">
