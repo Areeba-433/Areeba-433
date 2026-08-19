@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Areeba Mumtaz Minhas 👋</h1>
+<h1 align="center">Hi, I'm Areeba Mumtaz Minhas</h1>
 
 <p align="center">
   <b>Software Engineer · AI/ML Developer · Full-Stack Developer</b><br/>
-  4th-year BS Software Engineering student @ PUCIT, University of the Punjab, Lahore 🇵🇰
+  4th-year BS Software Engineering student @ PUCIT, University of the Punjab, Lahore
 </p>
 
 <p align="center">
@@ -13,34 +13,34 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I build AI-powered, full-stack applications that go from idea to deployed product. My work spans deep learning for medical imaging, hybrid recommendation systems, LLM-powered apps, and production full-stack software.
 
 Currently seeking a **Software Engineering Internship** where I can ship real features and deepen my applied ML expertise.
 
-- 🎓 Pursuing BS Software Engineering @ PUCIT (Expected 2027)
-- 💼 Former Full-Stack Intern @ **Devzey Pvt. Ltd.** (Jan–Mar 2026)
-- 🤖 Completed AI/ML elective track — focused on deep learning & software architecture
-- 🏆 8 industry certifications across AI, cybersecurity, and full-stack development
-- 💡 Solved **100+ algorithmic challenges** on HackerRank (certified)
+- Pursuing BS Software Engineering @ PUCIT (Expected 2027)
+- Former Full-Stack Intern @ **Devzey Pvt. Ltd.** (Jan–Mar 2026)
+- Completed AI/ML elective track — focused on deep learning & software architecture
+- 8 industry certifications across AI, cybersecurity, and full-stack development
+- Solved 100+ algorithmic challenges on HackerRank (certified)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔬 Retinal Disease Detection — Deep Learning | Computer Vision
-> Multi-label classifier using **EfficientNet-B0** fine-tuned on 6,300+ retinal fundus images (ODIR5K dataset)
+### Retinal Disease Detection — Deep Learning | Computer Vision
+> Multi-label classifier using **EfficientNet-B0** fine-tuned on 6,300+ retinal fundus images (ODIR-5K dataset)
 
 - Detects 8 diseases: Diabetic Retinopathy, Glaucoma, Cataract, AMD, Hypertension, Myopia & more
-- **Mean AUC 0.80+** after epoch 1 — competitive with published literature
-- Standout scores: Myopia **0.96**, Cataract **0.90**, Glaucoma **0.85**
+- **Mean AUC 0.8452** — competitive with published literature
+- Standout scores: Myopia **0.9826**, Cataract **0.9222**
 - Full preprocessing pipeline: CLAHE contrast enhancement + Albumentations augmentation
 - `PyTorch` `EfficientNet (timm)` `OpenCV` `Albumentations` `Scikit-learn`
 
 ---
 
-### 🎵 Music Recommendation System — Hybrid ML
+### Music Recommendation System — Hybrid ML
 > Combines **SVD Collaborative Filtering (60%)** + **Cosine Similarity Content-Based Filtering (40%)**
 
 - Built on a Spotify-style dataset: 2,776 interactions · 200 users · 100 songs
@@ -51,7 +51,7 @@ Currently seeking a **Software Engineering Internship** where I can ship real fe
 
 ---
 
-### 🤖 AI-Powered Text Classification App — End-to-End ML
+### AI-Powered Text Classification App — End-to-End ML
 > Full-stack Python app with **scikit-learn** pipeline + **LLM-driven** interactive layer via Google Cloud Generative AI APIs
 
 - Covers data preprocessing → model training → REST API serving → user-facing product
@@ -61,7 +61,7 @@ Currently seeking a **Software Engineering Internship** where I can ship real fe
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -89,7 +89,7 @@ Currently seeking a **Software Engineering Internship** where I can ship real fe
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Certificate | Issuer |
 |---|---|
@@ -101,10 +101,14 @@ Currently seeking a **Software Engineering Internship** where I can ship real fe
 | Python | HackerRank |
 | Competitive Programming Participant | PUCON |
 | Hackathon Participant | COSMOCON |
+| Introduction to Cybersecurity | Cisco Networking Academy |
+| AI Fluency for Small Businesses | PayPal / Anthropic |
+| Claude 101 | Anthropic |
+| QuizOff 2026: India's Biggest AI Quiz (Participant) | CampusCrew / Unstop |
 
 ---
 
-## 📌 Areas of Interest
+## Areas of Interest
 
 `Natural Language Processing` `Generative AI & LLMs` `Computer Vision` `Medical AI`
 `Predictive Modeling` `MLOps & Model Deployment` `Recommendation Systems`
